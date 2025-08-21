@@ -1,7 +1,7 @@
 
 # EX NO 1: Cloud-account-set-up-and-services
-# REG NO : 212222100003
-# NAME : AISHWARYA S
+# REG NO : 212224230225
+# NAME : RAVIPRASATH K
 
 ## Aim:
 
